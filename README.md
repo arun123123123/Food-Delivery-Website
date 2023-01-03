@@ -5,7 +5,6 @@
     $password = "";
     $db  = "glitch";
 
-
     INSERT INTO signup
     SELECT * FROM signup
 
