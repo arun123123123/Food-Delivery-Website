@@ -94,7 +94,7 @@ require_once ("php/masterdata.php");
         </div>
         <hr>
         <div class="container header-wrapper5">
-            <h1 class="head text-center">Burger</h1>       
+            <h1 class="text-center">Burger</h1>       
         </div>
         <div class="container">
             <div class="row text-center py-5">
