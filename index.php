@@ -46,7 +46,7 @@ require_once ("php/masterdata.php");
                 <div class="left1">
                     <h1>Healthy Food For a Healthy Life</h1>
                     <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Laudantium itaque, quasi aliquam alias tempora voluptatibus.</p>
-                    <a href="#contact" class="link-btn">Order Now</a>
+                    <a href="#items" class="link-btn">Order Now</a>
                 </div>
             </div>
         </div>
@@ -69,7 +69,7 @@ require_once ("php/masterdata.php");
                     <div class="left">
                             <h1>True Healthy Food <br> For Your Family</h1>
                             <p><span>1</span> Lorem ipsum dolor sit amet consectetur adipisicing elit.<br><span>2</span> Reprehenderit, possimus. Facere dolores aspernatur<br><span>3</span> soluta explicabo, ad ipsum esse earum. At saepe delectus<br><span>4</span> quibusdam officiis accusantium ducimus quo <br><span>5</span> exercitationem asperiores ullam.</p>
-                            <a href="#contact" class="link-btn">Order Now</a>
+                            <a href="#items" class="link-btn">Order Now</a>
                     </div>
                 </div>
                 <div class="col-sm-12 col-md-6">
